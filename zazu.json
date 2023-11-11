@@ -1,0 +1,11 @@
+{
+  "name": "Electron Theme",
+  "version": "0.1.0",
+  "author": "pysnow530",
+  "description": "A electron theme for Zazu",
+
+  "stylesheet": "main.css",
+  "layoutVersion": "v2",
+  "width": 560,
+  "height": 400
+}

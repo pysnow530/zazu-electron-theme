@@ -1,0 +1,7 @@
+{
+  "name": "zazu-electron-theme",
+  "version": "0.1.0",
+  "description": "A electron theme for Zazu.",
+  "author": "pysnow530 <pysnow530@163.com>",
+  "license": "MIT"
+}
