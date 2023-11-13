@@ -79,8 +79,13 @@ section#zazu div.results .resultList .resultItem {
   padding-left: 12px;
   padding-right: 12px;
   background-color: #090a11;
-  margin: 4px 12px 0 12px;
+  margin-top: 4px;
+  margin-left: 12px;
+  margin-right: 12px;
   border-radius: 4px;
+}
+section#zazu div.results .resultList .resultItem:last-child {
+  margin-bottom: 4px;
 }
 section#zazu div.results .resultList .resultItem .icon {
   color: rgba(255, 255, 255, 0.7);
