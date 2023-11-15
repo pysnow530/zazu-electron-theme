@@ -133,6 +133,10 @@ section#zazu div.results .resultList .resultItem.active,
 section#zazu div.results .resultList .resultItem:hover {
     background-color: #00aeff;
 }
+section#zazu div.results .resultList .preview {
+    height: 44px;
+    margin-left: auto;
+}
 
 section#zazu div.tips {
   display: flex;
